@@ -1,1 +1,1 @@
-# CypressWorkshop
+# Cypress-workshop

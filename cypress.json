@@ -1,0 +1,16 @@
+{
+  "baseUrl": "https://itlabs360-stage.it-labs.io/",
+  "defaultCommandTimeout": 30000,
+  "pageLoadTimeout": 10000,
+  "chromeWebSecurity": false,
+  "reporter": "mochawesome",
+  "failOnStatusCode": false,
+  "retries": {
+    "runMode": 1,
+    "openMode": 0
+  },
+  "env": {
+    "username": "",
+    "password": ""
+  }
+}
