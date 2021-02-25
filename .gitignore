@@ -9,4 +9,3 @@
 /cypress/screenshots/*
 /cypress/report/*
 /mochawesome-report
-/cypress/fixtures/*
